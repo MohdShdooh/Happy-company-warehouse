@@ -1,0 +1,25 @@
+.statistics-container {
+    display: flex;
+    justify-content: space-between; /* Space between the cards */
+    gap: 20px; /* Space between the two cards */
+  }
+  
+  .card {
+    width: 45%; /* Make each card take up nearly half the width */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .list-group-item {
+    padding: 10px;
+    font-size: 16px;
+  }
+  

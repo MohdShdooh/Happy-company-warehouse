@@ -1,0 +1,31 @@
+
+<section>
+    <button class="btn btn-warning text-white" [routerLink]="['/dashboard/warehouses/add']">Add WareHouse</button>
+</section>
+<div class="container">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Address</th>
+            <th scope="col">City</th>
+            <th scope="col">Country</th>
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let wH of this.getWareHousesResponse.wareHouses">
+                <th scope="row">{{wH.Id}}</th>
+                <td>{{wH.Name}}</td>
+                <td>{{wH.Address}}</td>
+                <td>{{wH.City}}</td>
+                <td>{{wH.Country}}</td>
+                <td>
+                    <a class="btn btn-info" [routerLink]="['/dashboard/warehouses/items/list', wH.Id]">View</a>
+                    &nbsp;
+                </td>
+            </tr>
+        </tbody>
+      </table>
+</div>

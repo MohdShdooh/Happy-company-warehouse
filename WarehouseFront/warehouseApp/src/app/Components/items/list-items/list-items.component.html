@@ -1,0 +1,37 @@
+<div class="container">
+    <h2>Items</h2>
+    <section>
+        <button class="btn btn-warning text-white" [routerLink]="['/dashboard/warehouses/items/add', warehouseId]">Add Item</button>
+    </section>
+    <div *ngIf="loading">Loading...</div>
+  
+    <table class="table" *ngIf="!loading">
+      <thead>
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Name</th>
+          <th scope="col">SKU Code</th>
+          <th scope="col">Quantity</th>
+          <th scope="col">Cost</th>
+          <th scope="col">MSRP Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of items">
+          <td>{{ item.Id }}</td>
+          <td>{{ item.Name }}</td>
+          <td>{{ item.SKUCode }}</td>
+          <td>{{ item.Quantity }}</td>
+          <td>{{ item.Cost }}$</td>
+          <td>{{ item.MSRPPrice }}</td>
+        </tr>
+      </tbody>
+    </table>
+  
+    <div class="pagination">
+      <button class="btn btn-secondary" (click)="previousPage()" [disabled]="pageNumber === 1">Previous</button>
+      &nbsp;
+      <button class="btn btn-secondary" (click)="nextPage()" [disabled]="totalFetchedItems < pageSize">Next</button>
+    </div>
+  </div>
+  

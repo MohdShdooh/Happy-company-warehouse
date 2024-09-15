@@ -1,0 +1,33 @@
+[2024-09-16 00:03:17 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-16 00:03:34 INF] GetUserByEmail Repository method Started for user }
+[2024-09-16 00:03:36 INF] ItemRepository/GetTopItems method Started 
+[2024-09-16 00:03:36 INF] ItemRepository/GetLessItems method Started 
+[2024-09-16 00:04:01 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:04:09 INF] ItemRepository/GetItemsByWareHouseId method Started 
+[2024-09-16 00:04:09 WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[2024-09-16 00:04:09 WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[2024-09-16 00:04:13 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:04:50 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:04:51 INF] ItemRepository/GetItemsByWareHouseId method Started 
+[2024-09-16 00:06:57 INF] GetUserByEmail Repository method Started for user }
+[2024-09-16 00:06:58 INF] ItemRepository/GetTopItems method Started 
+[2024-09-16 00:06:58 INF] ItemRepository/GetLessItems method Started 
+[2024-09-16 00:07:06 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:07:12 INF] ItemRepository/GetItemsByWareHouseId method Started 
+[2024-09-16 00:07:19 INF] ItemRepository/GetItemsByWareHouseId method Started 
+[2024-09-16 00:07:19 WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[2024-09-16 00:07:19 WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[2024-09-16 00:07:21 INF] ItemRepository/GetItemsByWareHouseId method Started 
+[2024-09-16 00:07:24 INF] GetAllUsers method Started 
+[2024-09-16 00:07:25 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:07:35 INF] GetAllUsers method Started 
+[2024-09-16 00:07:46 INF] GetAllUsers method Started 
+[2024-09-16 00:07:49 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:07:52 INF] GetAllUsers method Started 
+[2024-09-16 00:08:03 INF] GetUserById Repository method Started for user }
+[2024-09-16 00:08:07 INF] GetUserById Repository method Started for user }
+[2024-09-16 00:08:07 INF] DeleteUserById Repository method Started for user }
+[2024-09-16 00:08:23 INF] WareHouseRepository/CreateWareHouse method Started for user : 
+[2024-09-16 00:08:26 INF] ItemRepository/GetTopItems method Started 
+[2024-09-16 00:08:26 INF] ItemRepository/GetLessItems method Started 
+[2024-09-16 00:08:28 INF] GetAllUsers method Started 

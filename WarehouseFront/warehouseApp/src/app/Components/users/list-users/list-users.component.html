@@ -1,0 +1,58 @@
+
+<!-- <a [routerLink]="['/dashboard/users/edit', this.userid]">Edit</a>
+<a [routerLink]="['/dashboard/users/add']">add</a>
+<router-outlet></router-outlet> -->
+<section>
+    <button class="btn btn-warning text-white" [routerLink]="['/dashboard/users/add']">Add user</button>
+</section>
+<div class="container">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Statuse</th>
+            <th scope="col">Role</th>
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of this.users">
+                <th scope="row">{{user.Id}}</th>
+                <td>{{user.Name}}</td>
+                <td>{{user.Email}}</td>
+                <td>{{user.UserStatus}}</td>
+                <td>{{user.Role}}</td>
+                <td>
+                    <a class="btn btn-info" [routerLink]="['/dashboard/users/edit', user.Id]">Edit</a>
+                    &nbsp;
+                    <a class="btn btn-success" [routerLink]="['/dashboard/users/changePassword', user.Id]">ChangePass</a>
+                    &nbsp;
+                    <a class="btn btn-danger"  (click)="openDeleteModal(user)">Delete</a>
+                </td>
+            </tr>
+        </tbody>
+      </table>
+</div>
+
+
+
+
+<div class="modal fade" id="deleteUserModal" tabindex="-1" aria-labelledby="deleteUserModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="deleteUserModalLabel">Confirm Delete</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Are you sure you want to delete {{ selectedUserName }}?
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" (click)="onCancel()">Cancel</button>
+        <button type="button" class="btn btn-danger" (click)="onDeleteConfirmed()">Yes, Delete</button>
+      </div>
+    </div>
+  </div>
+</div>

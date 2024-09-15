@@ -1,0 +1,5 @@
+.custom-form {
+    width: 100%; /* Take up the full width */
+    max-width: 400px; /* Adjust the max-width as needed */
+    margin: 0 auto; /* Center horizontally */
+  }

@@ -1,0 +1,46 @@
+<section class="container-fluid">
+    <div class="form-container">
+      <form>
+        <!-- Email Field -->
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input type="email" class="form-control" id="email" [(ngModel)]="editUserRequest.Email" name="email" placeholder="Enter email" required>
+        </div>
+  
+        <!-- Full Name Field -->
+        <div class="form-group">
+          <label for="fullName">Full Name</label>
+          <input type="text" class="form-control" id="fullName" [(ngModel)]="editUserRequest.Name" name="fullName" placeholder="Enter full name" required>
+        </div>
+  
+        <!-- Role Dropdown -->
+        <div class="form-group">
+          <label for="role">Role</label>
+          <select class="form-control" id="role" [(ngModel)]="editUserRequest.Role" name="role" required>
+            <option *ngFor="let role of this.userRoles" [value]="role.value">{{ role.label }}</option>
+          </select>
+        </div>
+  
+        <!-- Status Dropdown -->
+        <div class="form-group">
+          <label for="status">Status</label>
+          <select class="form-control" id="status" [(ngModel)]="editUserRequest.status" name="status" required>
+            <option *ngFor="let status of this.userStatuses" [value]="status.value">{{ status.label }}</option>
+          </select>
+        </div>
+  
+        <!-- Submit and Back Buttons -->
+        
+        <div class="button-container m-3">
+            <button type="button" class="btn btn-secondary" (click)="goBack()" style="margin-left: 10px;">Back</button>
+            &nbsp;
+            <button type="submit" class="btn btn-primary" (click)="updateUser()">Submit</button>
+         </div>
+  
+          <div *ngIf="errorMessage" class="container"[ngStyle]="{'color': errorMessageColor}">
+              {{this.errorMessage}}
+          </div>
+      </form>
+    </div>
+  </section>
+  

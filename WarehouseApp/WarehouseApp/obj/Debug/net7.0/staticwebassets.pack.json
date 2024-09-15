@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\Countries.json",
+      "PackagePath": "staticwebassets\\Countries.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WarehouseApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WarehouseApp.props",
+      "PackagePath": "build\\WarehouseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WarehouseApp.props",
+      "PackagePath": "buildMultiTargeting\\WarehouseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WarehouseApp.props",
+      "PackagePath": "buildTransitive\\WarehouseApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

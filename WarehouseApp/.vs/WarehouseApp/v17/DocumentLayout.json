@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\entities\\dtos\\controllerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\controllerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\items\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\items\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\items\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\items\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\entities\\tools\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|solutionrelative:entities\\tools\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\users\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\users\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\dbcontext\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\dbcontext\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\warehouse\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\warehouse\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\warehouse\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\warehouse\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\interfaces\\iwarehouseservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\interfaces\\iwarehouseservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\repositories\\users\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\users\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\warehouseapp\\wwwroot\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1D7E3C0-BC3F-4771-9F65-7952C9CD6178}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\wwwroot\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\bal\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A37DD2-17B1-4FA3-A213-7A84FEE1D95F}|BAL\\BAL.csproj|solutionrelative:bal\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\entities\\tools\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404154FE-71A4-425D-94E3-155D0E570A0E}|Entities\\Entities.csproj|solutionrelative:entities\\tools\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|c:\\users\\abual\\downloads\\shdooh\\warehouseapp\\dal\\migrations\\20240913192402_updateskucodetonullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE34527-6E15-4361-80A5-838E61FADA7F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240913192402_updateskucodetonullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\CountriesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\DTOs\\CountriesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\ItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\DTOs\\ItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\WareHouseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\DTOs\\WareHouseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerDto.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\ControllerDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ControllerDto.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\ControllerDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ControllerDto.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:31:34.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAswIwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:37:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "BAL\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "BAL\\Interfaces\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:41:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\ItemsService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\ItemsService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\ItemsService.cs",
+              "RelativeToolTip": "BAL\\Services\\ItemsService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:41:56.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Items\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Items\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Items\\IItemRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Items\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:42:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Items\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Items\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Items\\ItemRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Items\\ItemRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAswFkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:42:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\UsersService.cs",
+              "RelativeToolTip": "BAL\\Services\\UsersService.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwKAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:37:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:19:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\JwtHelper.cs",
+              "RelativeToolTip": "BAL\\Services\\JwtHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:18:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WareHouseController.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\WareHouseController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\WareHouseController.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\WareHouseController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\WareHouseController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:36:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:30:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WareHouseService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\WareHouseService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\WareHouseService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\WareHouseService.cs",
+              "RelativeToolTip": "BAL\\Services\\WareHouseService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:07:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WareHouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\WareHouseDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\WareHouseDto.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\WareHouseDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\WareHouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:23:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:27:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwHkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:39:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "BAL\\Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "BAL\\Interfaces\\IUsersService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:02:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Users\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Users\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Users\\UsersRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Users\\UsersRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:39:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Tools\\Enum.cs",
+              "RelativeDocumentMoniker": "Entities\\Tools\\Enum.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Tools\\Enum.cs",
+              "RelativeToolTip": "Entities\\Tools\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:32:36.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "BAL\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:07:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Program.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\Program.cs",
+              "RelativeToolTip": "WarehouseApp\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:09:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\appsettings.json",
+              "RelativeToolTip": "WarehouseApp\\appsettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T16:20:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Item.cs",
+              "RelativeToolTip": "DAL\\Entities\\Item.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:42:15.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240913192402_updateSKUCodeToNullable.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Migrations\\20240913192402_updateSKUCodeToNullable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240913192402_updateSKUCodeToNullable.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Migrations\\20240913192402_updateSKUCodeToNullable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240913192402_updateSKUCodeToNullable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:24:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WareHouseContext.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\DBContext\\WareHouseContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DBContext\\WareHouseContext.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\DBContext\\WareHouseContext.cs",
+              "RelativeToolTip": "DAL\\DBContext\\WareHouseContext.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:04:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WareHouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\WareHouse\\WareHouseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\WareHouse\\WareHouseRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\WareHouse\\WareHouseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\WareHouse\\WareHouseRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAASwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:09:13.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CountriesDto.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\CountriesDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\CountriesDto.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\DTOs\\CountriesDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\CountriesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:47:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IWareHouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\WareHouse\\IWareHouseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\WareHouse\\IWareHouseRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\WareHouse\\IWareHouseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\WareHouse\\IWareHouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:08:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IWareHouseServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IWareHouseServicecs.cs",
+              "RelativeDocumentMoniker": "BAL\\Interfaces\\IWareHouseServicecs.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Interfaces\\IWareHouseServicecs.cs",
+              "RelativeToolTip": "BAL\\Interfaces\\IWareHouseServicecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:07:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "DAL\\Entities\\Warehouse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:37:00.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Users\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Users\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Repositories\\Users\\IUsersRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Users\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:39:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Countries.json",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\Countries.json",
+              "RelativeDocumentMoniker": "WarehouseApp\\wwwroot\\Countries.json",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\Countries.json",
+              "RelativeToolTip": "WarehouseApp\\wwwroot\\Countries.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T16:36:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\DAL\\Entities\\Users.cs",
+              "RelativeToolTip": "DAL\\Entities\\Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:28:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\BAL\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "BAL\\Services\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:22:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T19:51:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Tools\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Entities\\Tools\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\Entities\\Tools\\JwtSettings.cs",
+              "RelativeToolTip": "Entities\\Tools\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:16:38.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

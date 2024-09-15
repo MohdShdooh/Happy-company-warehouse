@@ -1,0 +1,16 @@
+<div class="statistics-container">
+    <div class="card" *ngIf="getTopItemsResponse.items?.length">
+      <div class="card-header">Top 10 Items by Quantity</div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item" *ngFor="let item of getTopItemsResponse.items">{{ item.Name }}</li>
+      </ul>
+    </div>
+  
+    <div class="card" *ngIf="getLessItemsResponse.items?.length">
+      <div class="card-header">Lowest 10 Items by Quantity</div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item" *ngFor="let item of getLessItemsResponse.items">{{ item.Name }}</li>
+      </ul>
+    </div>
+  </div>
+  

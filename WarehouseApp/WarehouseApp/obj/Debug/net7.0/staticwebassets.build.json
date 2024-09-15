@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "CaReAphbJtya+YAgqVEvYm5d40kpQ6FMRoPs8mSK+b0=",
+  "Source": "WarehouseApp",
+  "BasePath": "_content/WarehouseApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WarehouseApp\\wwwroot",
+      "Source": "WarehouseApp",
+      "ContentRoot": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\",
+      "BasePath": "_content/WarehouseApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\Countries.json",
+      "SourceId": "WarehouseApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abual\\Downloads\\shdooh\\WarehouseApp\\WarehouseApp\\wwwroot\\",
+      "BasePath": "_content/WarehouseApp",
+      "RelativePath": "Countries.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Countries.json"
+    }
+  ]
+}

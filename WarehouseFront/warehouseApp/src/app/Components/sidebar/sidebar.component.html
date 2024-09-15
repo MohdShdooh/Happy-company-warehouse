@@ -1,0 +1,35 @@
+<div id="wrapper">
+
+    <aside id="sidebar-wrapper">
+      <div class="sidebar-brand">
+        <h2>Logo</h2>
+      </div>
+      <ul class="sidebar-nav">
+        <li>
+          <a routerLink="/dashboard/statstics" (click)="NavigateTo('statstics')"><i class="fa fa-home"></i> Dashboard</a>
+        </li>
+        <li>
+          <a routerLink="/dashboard/warehouses" (click)="NavigateTo('warehouses')"><i class="fa fa-plug"></i> WareHouses</a>
+        </li>
+        <li>
+          <a routerLink="/dashboard/users" (click)="NavigateTo('users')"><i class="fa fa-user"></i> Users</a>
+        </li>
+      </ul>
+    </aside>
+  
+    <div id="navbar-wrapper">
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a href="#" class="navbar-brand" id="sidebar-toggle"><i class="fa fa-bars"></i></a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  
+    <section id="content-wrapper">
+      <router-outlet></router-outlet>
+    </section>
+  
+  </div>
+  

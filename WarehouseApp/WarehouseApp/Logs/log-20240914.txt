@@ -1,0 +1,95 @@
+[2024-09-14 18:09:54 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-14 18:11:28 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:11:45 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:12:19 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:13:26 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:13:35 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:14:29 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-14 18:14:51 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:16:30 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-14 18:16:49 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:18:36 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:38:29 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-14 18:38:48 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:40:44 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:42:11 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:43:33 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:44:58 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:49:58 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:50:11 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:50:13 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:51:33 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:52:03 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:53:41 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:54:06 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:55:00 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:55:09 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:56:14 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:56:29 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:57:50 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:58:44 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 18:59:27 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:00:26 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:00:58 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:02:22 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:02:41 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:02:49 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:03:06 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:04:31 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:05:07 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:05:48 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:05:58 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:06:09 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:06:10 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:08:42 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:14 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:18 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:19 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:19 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:19 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:24 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:26 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:26 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:09:26 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:10:14 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:37:29 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:39:36 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:40:40 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 19:40:43 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 22:34:56 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 22:35:03 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 22:35:22 INF] GetAllUsers method Started 
+[2024-09-14 22:46:55 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 22:47:21 INF] GetAllUsers method Started 
+[2024-09-14 22:48:17 INF] GetAllUsers method Started 
+[2024-09-14 22:48:22 INF] GetAllUsers method Started 
+[2024-09-14 22:48:23 INF] GetAllUsers method Started 
+[2024-09-14 22:48:28 INF] GetAllUsers method Started 
+[2024-09-14 22:48:30 INF] GetAllUsers method Started 
+[2024-09-14 22:48:32 INF] GetAllUsers method Started 
+[2024-09-14 22:48:34 INF] GetAllUsers method Started 
+[2024-09-14 22:48:36 INF] GetAllUsers method Started 
+[2024-09-14 22:49:13 INF] GetAllUsers method Started 
+[2024-09-14 22:52:07 INF] GetAllUsers method Started 
+[2024-09-14 22:52:41 INF] GetAllUsers method Started 
+[2024-09-14 22:54:49 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 22:54:51 INF] GetAllUsers method Started 
+[2024-09-14 22:55:38 INF] GetAllUsers method Started 
+[2024-09-14 22:55:53 INF] GetUserByEmail Repository method Started for user }
+[2024-09-14 23:19:09 INF] GetAllUsers method Started 
+[2024-09-14 23:19:34 INF] GetAllUsers method Started 
+[2024-09-14 23:26:50 INF] GetAllUsers method Started 
+[2024-09-14 23:28:47 INF] GetAllUsers method Started 
+[2024-09-14 23:29:14 INF] GetAllUsers method Started 
+[2024-09-14 23:30:23 INF] GetAllUsers method Started 
+[2024-09-14 23:30:33 INF] GetAllUsers method Started 
+[2024-09-14 23:31:40 INF] GetAllUsers method Started 
+[2024-09-14 23:32:36 INF] CreateUser method Started with Email: mohammad.shdooh@gmail.com
+[2024-09-14 23:32:45 INF] GetAllUsers method Started 
+[2024-09-14 23:33:16 INF] GetAllUsers method Started 
+[2024-09-14 23:33:34 INF] GetAllUsers method Started 
+[2024-09-14 23:33:47 INF] GetAllUsers method Started 
+[2024-09-14 23:33:53 INF] GetAllUsers method Started 
+[2024-09-14 23:34:01 INF] GetAllUsers method Started 
+[2024-09-14 23:34:03 INF] GetAllUsers method Started 
+[2024-09-14 23:59:56 INF] GetAllUsers method Started 
